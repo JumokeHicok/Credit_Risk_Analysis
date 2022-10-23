@@ -29,7 +29,7 @@ The results of the 6 machine learning models are shown below and include the mod
   - High Risk Recall: 63%
   - Low Risk Precision: 100%
   - Low Risk Recall: 69% 
-    <br/>
+  <br/>
 ![SMOTE Accuracy](/Resources/SMOTE_accuracy.png)
 ![SMOTE Report](/Resources/SMOTE_report.png)
 <br/>
@@ -39,7 +39,7 @@ The results of the 6 machine learning models are shown below and include the mod
   - High Risk Recall: 69%
   - Low Risk Precision: 100%
   - Low Risk Recall: 40% 
-    <br/>
+  <br/>
 ![Cluster Centroids Accuracy](/Resources/Cluster_Centroids_accuracy.png)
 ![Cluster Centroids Report](/Resources/Cluster_Centroids_report.png)
 <br/>
@@ -49,7 +49,7 @@ The results of the 6 machine learning models are shown below and include the mod
   - High Risk Recall: 72%
   - Low Risk Precision: 100%
   - Low Risk Recall: 57% 
-    <br/>
+  <br/>
 ![SMOTEENN Accuracy](/Resources/SMOTEENN_accuracy.png)
 ![SMOTEENN Report](/Resources/SMOTEENN_report.png)
 <br/>
@@ -59,7 +59,7 @@ The results of the 6 machine learning models are shown below and include the mod
   - High Risk Recall: 70%
   - Low Risk Precision: 100%
   - Low Risk Recall: 87%
-    <br/>
+  <br/>
 ![Balanced Random Forest Classifier Accuracy](/Resources/BRFC_accuracy.png)
 ![Balanced Random Forest Classifier Report](/Resources/BRFC_report.png)
 <br/>
@@ -69,7 +69,7 @@ The results of the 6 machine learning models are shown below and include the mod
   - High Risk Recall: 92%
   - Low Risk Precision: 100%
   - Low Risk Recall: 94%
-    <br/>
+  <br/>
 ![Easy Ensemble Accuracy](/Resources/Easy_Ensemble_accuracy.png)
 ![Easy Ensemble Report](/Resources/Easy_Ensemble_report.png)
 
